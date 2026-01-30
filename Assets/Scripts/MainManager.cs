@@ -7,6 +7,7 @@ using UnityEngine.InputSystem;
 public class MainManager : MonoBehaviour
 {
     public static MainManager mainManager;
+    public int score;
 
     private void Awake()
     {
