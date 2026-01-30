@@ -1,0 +1,3601 @@
+fileFormatVersion: 2
+guid: 6f05368a0fb58c9428168b7182c0dfdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5661359831503913092
+    second: tinytowntiles_0
+  - first:
+      213: -7358162311081506269
+    second: tinytowntiles_1
+  - first:
+      213: 8532114460345920482
+    second: tinytowntiles_2
+  - first:
+      213: 6728829318001947871
+    second: tinytowntiles_3
+  - first:
+      213: -3937865809599079108
+    second: tinytowntiles_4
+  - first:
+      213: -5344262772410020521
+    second: tinytowntiles_5
+  - first:
+      213: 6988249797244539550
+    second: tinytowntiles_6
+  - first:
+      213: -7021704024369161647
+    second: tinytowntiles_7
+  - first:
+      213: 2484984919924025473
+    second: tinytowntiles_8
+  - first:
+      213: 6855084756865856198
+    second: tinytowntiles_9
+  - first:
+      213: -8988947220938769028
+    second: tinytowntiles_10
+  - first:
+      213: -1369707013739572007
+    second: tinytowntiles_11
+  - first:
+      213: 6652466274156972175
+    second: tinytowntiles_12
+  - first:
+      213: -7208599200172094622
+    second: tinytowntiles_13
+  - first:
+      213: -3063401590731987452
+    second: tinytowntiles_14
+  - first:
+      213: 2723188350979454240
+    second: tinytowntiles_15
+  - first:
+      213: 3565333426263688406
+    second: tinytowntiles_16
+  - first:
+      213: -2195384125163286360
+    second: tinytowntiles_17
+  - first:
+      213: -2660410939748156613
+    second: tinytowntiles_18
+  - first:
+      213: -1954730791073641902
+    second: tinytowntiles_19
+  - first:
+      213: -2969843204630879049
+    second: tinytowntiles_20
+  - first:
+      213: 6882763812570761085
+    second: tinytowntiles_21
+  - first:
+      213: 1616686621270961122
+    second: tinytowntiles_22
+  - first:
+      213: 5316030442497402957
+    second: tinytowntiles_23
+  - first:
+      213: 9171194149413534554
+    second: tinytowntiles_24
+  - first:
+      213: -814698145600688331
+    second: tinytowntiles_25
+  - first:
+      213: -5799794011049746158
+    second: tinytowntiles_26
+  - first:
+      213: -2816758702269870179
+    second: tinytowntiles_27
+  - first:
+      213: -4134079775387055571
+    second: tinytowntiles_28
+  - first:
+      213: -2256160074135341988
+    second: tinytowntiles_29
+  - first:
+      213: 6133906336442116731
+    second: tinytowntiles_30
+  - first:
+      213: 5716834062567342678
+    second: tinytowntiles_31
+  - first:
+      213: 1849235216284273998
+    second: tinytowntiles_32
+  - first:
+      213: 725293304344281283
+    second: tinytowntiles_33
+  - first:
+      213: 2454394832245179652
+    second: tinytowntiles_34
+  - first:
+      213: 6339476086959497607
+    second: tinytowntiles_35
+  - first:
+      213: 1348558386518034880
+    second: tinytowntiles_36
+  - first:
+      213: 9149379635186945944
+    second: tinytowntiles_37
+  - first:
+      213: 5032209045616380125
+    second: tinytowntiles_38
+  - first:
+      213: 7908898601403066045
+    second: tinytowntiles_39
+  - first:
+      213: 924814939328179202
+    second: tinytowntiles_40
+  - first:
+      213: -5856225768259173783
+    second: tinytowntiles_41
+  - first:
+      213: 7136387996412444221
+    second: tinytowntiles_42
+  - first:
+      213: 5910054565245498875
+    second: tinytowntiles_43
+  - first:
+      213: -5834596622989708827
+    second: tinytowntiles_44
+  - first:
+      213: -4837789957193648354
+    second: tinytowntiles_45
+  - first:
+      213: 6462634285367495748
+    second: tinytowntiles_46
+  - first:
+      213: -7527806744412819430
+    second: tinytowntiles_47
+  - first:
+      213: -2608675013274970922
+    second: tinytowntiles_48
+  - first:
+      213: -7482739017058273785
+    second: tinytowntiles_49
+  - first:
+      213: -1983960096862539995
+    second: tinytowntiles_50
+  - first:
+      213: 1468428469778366513
+    second: tinytowntiles_51
+  - first:
+      213: 2818164382748424811
+    second: tinytowntiles_52
+  - first:
+      213: -1751194045801949072
+    second: tinytowntiles_53
+  - first:
+      213: -4847059448133798630
+    second: tinytowntiles_54
+  - first:
+      213: 3834195860297369290
+    second: tinytowntiles_55
+  - first:
+      213: 4658753389045763555
+    second: tinytowntiles_56
+  - first:
+      213: 2809194082693913003
+    second: tinytowntiles_57
+  - first:
+      213: -6744088242929342308
+    second: tinytowntiles_58
+  - first:
+      213: -2620582283628120090
+    second: tinytowntiles_59
+  - first:
+      213: 8219929877102798602
+    second: tinytowntiles_60
+  - first:
+      213: -6460964743642434816
+    second: tinytowntiles_61
+  - first:
+      213: -6418316018857486559
+    second: tinytowntiles_62
+  - first:
+      213: -5614240029181860765
+    second: tinytowntiles_63
+  - first:
+      213: -7466404783846242867
+    second: tinytowntiles_64
+  - first:
+      213: 6908652567246109549
+    second: tinytowntiles_65
+  - first:
+      213: -6567700138755773590
+    second: tinytowntiles_66
+  - first:
+      213: 8091901309030342117
+    second: tinytowntiles_67
+  - first:
+      213: -1331247238045371748
+    second: tinytowntiles_68
+  - first:
+      213: 6890975141606339665
+    second: tinytowntiles_69
+  - first:
+      213: -5148048276794866811
+    second: tinytowntiles_70
+  - first:
+      213: -1512126300063033743
+    second: tinytowntiles_71
+  - first:
+      213: -4690731450791848227
+    second: tinytowntiles_72
+  - first:
+      213: 6675267058899368961
+    second: tinytowntiles_73
+  - first:
+      213: -1288686862879007519
+    second: tinytowntiles_74
+  - first:
+      213: 1627047641542994726
+    second: tinytowntiles_75
+  - first:
+      213: 286655857650419373
+    second: tinytowntiles_76
+  - first:
+      213: -660685993089262374
+    second: tinytowntiles_77
+  - first:
+      213: -6303427781017917787
+    second: tinytowntiles_78
+  - first:
+      213: -8152468245407637610
+    second: tinytowntiles_79
+  - first:
+      213: 1174263871141505419
+    second: tinytowntiles_80
+  - first:
+      213: -1670201761275261103
+    second: tinytowntiles_81
+  - first:
+      213: 3093171312368042467
+    second: tinytowntiles_82
+  - first:
+      213: -1701907670011617678
+    second: tinytowntiles_83
+  - first:
+      213: -1023219109806113838
+    second: tinytowntiles_84
+  - first:
+      213: 3539696918392935565
+    second: tinytowntiles_85
+  - first:
+      213: -7321833232118868124
+    second: tinytowntiles_86
+  - first:
+      213: -942004983730864565
+    second: tinytowntiles_87
+  - first:
+      213: -224135455796954161
+    second: tinytowntiles_88
+  - first:
+      213: -3140824312581527842
+    second: tinytowntiles_89
+  - first:
+      213: 2614064353555149946
+    second: tinytowntiles_90
+  - first:
+      213: 2339521868015300716
+    second: tinytowntiles_91
+  - first:
+      213: 7993939216935128698
+    second: tinytowntiles_92
+  - first:
+      213: 5449786945529806805
+    second: tinytowntiles_93
+  - first:
+      213: 6683281027957843249
+    second: tinytowntiles_94
+  - first:
+      213: -6002902856286600615
+    second: tinytowntiles_95
+  - first:
+      213: 8309522827928222764
+    second: tinytowntiles_96
+  - first:
+      213: 356402155582917833
+    second: tinytowntiles_97
+  - first:
+      213: -8209556537206534097
+    second: tinytowntiles_98
+  - first:
+      213: 5830553267742600200
+    second: tinytowntiles_99
+  - first:
+      213: -8708302153826087000
+    second: tinytowntiles_100
+  - first:
+      213: 1453883463773602452
+    second: tinytowntiles_101
+  - first:
+      213: 8640303318708037975
+    second: tinytowntiles_102
+  - first:
+      213: -2984663591282177259
+    second: tinytowntiles_103
+  - first:
+      213: -3577005474205606484
+    second: tinytowntiles_104
+  - first:
+      213: 7116329290330224698
+    second: tinytowntiles_105
+  - first:
+      213: 7439338770059950295
+    second: tinytowntiles_106
+  - first:
+      213: 6393947923543482712
+    second: tinytowntiles_107
+  - first:
+      213: -7098348902745309947
+    second: tinytowntiles_108
+  - first:
+      213: 1285326335932594946
+    second: tinytowntiles_109
+  - first:
+      213: -4088269583263590897
+    second: tinytowntiles_110
+  - first:
+      213: 8334048819224742180
+    second: tinytowntiles_111
+  - first:
+      213: -3561837537941210750
+    second: tinytowntiles_112
+  - first:
+      213: -3233869204145194714
+    second: tinytowntiles_113
+  - first:
+      213: -523853101530525087
+    second: tinytowntiles_114
+  - first:
+      213: 6853177525873538634
+    second: tinytowntiles_115
+  - first:
+      213: -4440130938372158303
+    second: tinytowntiles_116
+  - first:
+      213: 5552523251644275848
+    second: tinytowntiles_117
+  - first:
+      213: -3761751951631832896
+    second: tinytowntiles_118
+  - first:
+      213: -3018133956720530363
+    second: tinytowntiles_119
+  - first:
+      213: -6839569739273522130
+    second: tinytowntiles_120
+  - first:
+      213: -8834144489841878228
+    second: tinytowntiles_121
+  - first:
+      213: 9042500857976451670
+    second: tinytowntiles_122
+  - first:
+      213: -2161682482710123758
+    second: tinytowntiles_123
+  - first:
+      213: -5856306866339781028
+    second: tinytowntiles_124
+  - first:
+      213: -1398087175716113561
+    second: tinytowntiles_125
+  - first:
+      213: -1574299724642070932
+    second: tinytowntiles_126
+  - first:
+      213: -7216126397407352211
+    second: tinytowntiles_127
+  - first:
+      213: 5424788219430905339
+    second: tinytowntiles_128
+  - first:
+      213: 6411112269961114186
+    second: tinytowntiles_129
+  - first:
+      213: -8316643334089610176
+    second: tinytowntiles_130
+  - first:
+      213: 6163907543209061046
+    second: tinytowntiles_131
+  - first:
+      213: 8535648163719841782
+    second: tinytowntiles_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tinytowntiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c47685c0319e40800000000000000
+      internalID: 5661359831503913092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ac1500d5e82e990800000000000000
+      internalID: -7358162311081506269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 169
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb64e785e8286670800000000000000
+      internalID: 8532114460345920482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47db52d9a916d50800000000000000
+      internalID: 6728829318001947871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 169
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd0bde8e3e959c0800000000000000
+      internalID: -3937865809599079108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d0828d25d55d5b0800000000000000
+      internalID: -5344262772410020521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 153
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92d47e4a204bf060800000000000000
+      internalID: 6988249797244539550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9b857465ed8e90800000000000000
+      internalID: -7021704024369161647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 153
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18826406e907c7220800000000000000
+      internalID: 2484984919924025473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 169
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c23f2e3447222f50800000000000000
+      internalID: 6855084756865856198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 169
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db537c028d04380800000000000000
+      internalID: -8988947220938769028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 169
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d411bf5ab2ddfce0800000000000000
+      internalID: -1369707013739572007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88846f74de425c50800000000000000
+      internalID: 6652466274156972175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc3916839e5fb90800000000000000
+      internalID: -7208599200172094622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 169
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406ad0cdb7c9c75d0800000000000000
+      internalID: -3063401590731987452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 169
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025bc9c8065bac520800000000000000
+      internalID: 2723188350979454240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 152
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4064a7cdb9a7130800000000000000
+      internalID: 3565333426263688406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 169
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a05c1215cd6881e0800000000000000
+      internalID: -2195384125163286360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 152
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b7fb38852541bd0800000000000000
+      internalID: -2660410939748156613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 152
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a898eb3b66fd4e0800000000000000
+      internalID: -1954730791073641902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 169
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b46e5d175ff8c6d0800000000000000
+      internalID: -2969843204630879049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 169
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d778139983d748f50800000000000000
+      internalID: 6882763812570761085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 152
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb6bfd9aef9f6610800000000000000
+      internalID: 1616686621270961122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 154
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48683c958556c940800000000000000
+      internalID: 5316030442497402957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b3fe1ec70a64f70800000000000000
+      internalID: 9171194149413534554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2d406a5c91b4f0800000000000000
+      internalID: -814698145600688331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 135
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21121f8531ef28fa0800000000000000
+      internalID: -5799794011049746158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fc63552ecd8e8d0800000000000000
+      internalID: -2816758702269870179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 135
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a8deaf85cc0a6c0800000000000000
+      internalID: -4134079775387055571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 137
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c547eb0cd5280b0e0800000000000000
+      internalID: -2256160074135341988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a662d6053002550800000000000000
+      internalID: 6133906336442116731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6520e237a46465f40800000000000000
+      internalID: 5716834062567342678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d44cca1adc9a910800000000000000
+      internalID: 1849235216284273998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c00963ea62c01a00800000000000000
+      internalID: 725293304344281283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 144
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40547829813cf0220800000000000000
+      internalID: 2454394832245179652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_35
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781ed41c9e75af750800000000000000
+      internalID: 6339476086959497607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9084325ba07b210800000000000000
+      internalID: 1348558386518034880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc28e7d4029fe70800000000000000
+      internalID: 9149379635186945944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c877177ff5d540800000000000000
+      internalID: 5032209045616380125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6a635ff5d02cd60800000000000000
+      internalID: 7908898601403066045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c61a5994a95dc00800000000000000
+      internalID: 924814939328179202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9624c6ef0b18abea0800000000000000
+      internalID: -5856225768259173783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e7681921b890360800000000000000
+      internalID: 7136387996412444221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 118
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf532a4705bb40250800000000000000
+      internalID: 5910054565245498875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 118
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1310fc849570fa0800000000000000
+      internalID: -5834596622989708827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1735876aa7bcdcb0800000000000000
+      internalID: -4837789957193648354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 118
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c079c54a3efa950800000000000000
+      internalID: 6462634285367495748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 118
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10fb7566abd78790800000000000000
+      internalID: -7527806744412819430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4de4395ef1ccbd0800000000000000
+      internalID: -2608675013274970922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706394d5288f72890800000000000000
+      internalID: -7482739017058273785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f65f9adce8774e0800000000000000
+      internalID: -1983960096862539995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130c537c9e7e06410800000000000000
+      internalID: 1468428469778366513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_52
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ab06823912c1720800000000000000
+      internalID: 2818164382748424811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07812372b4282b7e0800000000000000
+      internalID: -1751194045801949072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15b8ccdc19cbbcb0800000000000000
+      internalID: -4847059448133798630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64c4c02dcc53530800000000000000
+      internalID: 3834195860297369290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed4832368737a040800000000000000
+      internalID: 4658753389045763555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9991c62234cf620800000000000000
+      internalID: 2809194082693913003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ee4a897f2862a0800000000000000
+      internalID: -6744088242929342308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7f9a72c42d1abd0800000000000000
+      internalID: -2620582283628120090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0725531cae031270800000000000000
+      internalID: 8219929877102798602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003bedc1cca0656a0800000000000000
+      internalID: -6460964743642434816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127dcc7269f8de6a0800000000000000
+      internalID: -6418316018857486559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_63
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 84
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36426d060763612b0800000000000000
+      internalID: -5614240029181860765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_64
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 101
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc541956860026890800000000000000
+      internalID: -7466404783846242867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_65
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 86
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b7b4308e670ef50800000000000000
+      internalID: 6908652567246109549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bad2e5587dad4a0800000000000000
+      internalID: -6567700138755773590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 86
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed954a2e553c4070800000000000000
+      internalID: 8091901309030342117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_68
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 101
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92f514b0b5768de0800000000000000
+      internalID: -1331247238045371748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_69
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 101
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1543e7f9169a1af50800000000000000
+      internalID: 6890975141606339665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_70
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 86
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58384172e557e88b0800000000000000
+      internalID: -5148048276794866811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 86
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17697354429d30be0800000000000000
+      internalID: -1512126300063033743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 86
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd69cca199c27eeb0800000000000000
+      internalID: -4690731450791848227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c3092e50053ac50800000000000000
+      internalID: 6675267058899368961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec526f302aad1ee0800000000000000
+      internalID: -1288686862879007519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62baec2a53f649610800000000000000
+      internalID: 1627047641542994726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c908dbf76af300800000000000000
+      internalID: 286655857650419373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc96d9f695c4d6f0800000000000000
+      internalID: -660685993089262374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6291584d9b588a0800000000000000
+      internalID: -6303427781017917787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_79
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f53dd035d9cde80800000000000000
+      internalID: -8152468245407637610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_80
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e6ffe4c2db4010800000000000000
+      internalID: 1174263871141505419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 69
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fc4f3e85042d8e0800000000000000
+      internalID: -1670201761275261103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_82
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 70
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e140279be62dea20800000000000000
+      internalID: 3093171312368042467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 69
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ed170cdfb9168e0800000000000000
+      internalID: -1701907670011617678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_84
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db7d9014abccc1f0800000000000000
+      internalID: -1023219109806113838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d841b59d7978f1130800000000000000
+      internalID: 3539696918392935565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46797e6d77f936a90800000000000000
+      internalID: -7321833232118868124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ef21055735de2f0800000000000000
+      internalID: -942004983730864565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbf6af8df5b3ecf0800000000000000
+      internalID: -224135455796954161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_89
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6eaa2bdec8964d0800000000000000
+      internalID: -3140824312581527842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747aadfda5074420800000000000000
+      internalID: 2614064353555149946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c607f4f5eb6a77020800000000000000
+      internalID: 2339521868015300716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_92
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e8b753d5d20fe60800000000000000
+      internalID: 7993939216935128698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df7ddd4a5881ab40800000000000000
+      internalID: 5449786945529806805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_94
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 52
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e8857fa8cfbc50800000000000000
+      internalID: 6683281027957843249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_95
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9520cdd28a761bca0800000000000000
+      internalID: -6002902856286600615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_96
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c39ab7cfa515370800000000000000
+      internalID: 8309522827928222764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc04b84fd132f400800000000000000
+      internalID: 356402155582917833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20915453dbc11e80800000000000000
+      internalID: -8209556537206534097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_99
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c6acf2e494ae050800000000000000
+      internalID: 5830553267742600200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af4d646455e52780800000000000000
+      internalID: -8708302153826087000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_101
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4924a0bae4b3d2410800000000000000
+      internalID: 1453883463773602452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_102
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759a83f071688e770800000000000000
+      internalID: 8640303318708037975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_103
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b8593f6485496d0800000000000000
+      internalID: -2984663591282177259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_104
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadd856197ceb5ec0800000000000000
+      internalID: -3577005474205606484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3837de19c742c260800000000000000
+      internalID: 7116329290330224698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 33
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8f6313237dd3760800000000000000
+      internalID: 7439338770059950295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_107
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851e72782cddbb850800000000000000
+      internalID: 6393947923543482712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_108
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 33
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50df41818499d7d90800000000000000
+      internalID: -7098348902745309947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b77b91e7566d110800000000000000
+      internalID: 1285326335932594946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f061a8f797c8347c0800000000000000
+      internalID: -4088269583263590897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42987a2de3d78a370800000000000000
+      internalID: 8334048819224742180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289bc5371afc19ec0800000000000000
+      internalID: -3561837537941210750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_113
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629b9d4b71dfe13d0800000000000000
+      internalID: -3233869204145194714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_114
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16259c03166eab8f0800000000000000
+      internalID: -523853101530525087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_115
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46f16c66a06b1f50800000000000000
+      internalID: 6853177525873538634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_116
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac0b16bf6c7162c0800000000000000
+      internalID: -4440130938372158303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 16
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c9a559a768e0d40800000000000000
+      internalID: 5552523251644275848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_118
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 18
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c82ad5d7829bcbc0800000000000000
+      internalID: -3761751951631832896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_119
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ce029382f6d16d0800000000000000
+      internalID: -3018133956720530363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_120
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24371a4f87f411a0800000000000000
+      internalID: -6839569739273522130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b108c4460d66580800000000000000
+      internalID: -8834144489841878228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f9d00f9a6d7d70800000000000000
+      internalID: 9042500857976451670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_123
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21be0ec2c392002e0800000000000000
+      internalID: -2161682482710123758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_124
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56e220eee73abea0800000000000000
+      internalID: -5856306866339781028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_125
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763796efe1ff89ce0800000000000000
+      internalID: -1398087175716113561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_126
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ec6becdb6f62ae0800000000000000
+      internalID: -1574299724642070932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_127
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2734364b2bdb90800000000000000
+      internalID: -7216126397407352211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_128
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf527e0d428b84b40800000000000000
+      internalID: 5424788219430905339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_129
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a423e2a54a8d8f850800000000000000
+      internalID: 6411112269961114186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_130
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce7fb73f8559c80800000000000000
+      internalID: -8316643334089610176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_131
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa355b0499a8550800000000000000
+      internalID: 6163907543209061046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinytowntiles_132
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f78c36f7c6b47670800000000000000
+      internalID: 8535648163719841782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tinytowntiles_0: 5661359831503913092
+      tinytowntiles_1: -7358162311081506269
+      tinytowntiles_10: -8988947220938769028
+      tinytowntiles_100: -8708302153826087000
+      tinytowntiles_101: 1453883463773602452
+      tinytowntiles_102: 8640303318708037975
+      tinytowntiles_103: -2984663591282177259
+      tinytowntiles_104: -3577005474205606484
+      tinytowntiles_105: 7116329290330224698
+      tinytowntiles_106: 7439338770059950295
+      tinytowntiles_107: 6393947923543482712
+      tinytowntiles_108: -7098348902745309947
+      tinytowntiles_109: 1285326335932594946
+      tinytowntiles_11: -1369707013739572007
+      tinytowntiles_110: -4088269583263590897
+      tinytowntiles_111: 8334048819224742180
+      tinytowntiles_112: -3561837537941210750
+      tinytowntiles_113: -3233869204145194714
+      tinytowntiles_114: -523853101530525087
+      tinytowntiles_115: 6853177525873538634
+      tinytowntiles_116: -4440130938372158303
+      tinytowntiles_117: 5552523251644275848
+      tinytowntiles_118: -3761751951631832896
+      tinytowntiles_119: -3018133956720530363
+      tinytowntiles_12: 6652466274156972175
+      tinytowntiles_120: -6839569739273522130
+      tinytowntiles_121: -8834144489841878228
+      tinytowntiles_122: 9042500857976451670
+      tinytowntiles_123: -2161682482710123758
+      tinytowntiles_124: -5856306866339781028
+      tinytowntiles_125: -1398087175716113561
+      tinytowntiles_126: -1574299724642070932
+      tinytowntiles_127: -7216126397407352211
+      tinytowntiles_128: 5424788219430905339
+      tinytowntiles_129: 6411112269961114186
+      tinytowntiles_13: -7208599200172094622
+      tinytowntiles_130: -8316643334089610176
+      tinytowntiles_131: 6163907543209061046
+      tinytowntiles_132: 8535648163719841782
+      tinytowntiles_14: -3063401590731987452
+      tinytowntiles_15: 2723188350979454240
+      tinytowntiles_16: 3565333426263688406
+      tinytowntiles_17: -2195384125163286360
+      tinytowntiles_18: -2660410939748156613
+      tinytowntiles_19: -1954730791073641902
+      tinytowntiles_2: 8532114460345920482
+      tinytowntiles_20: -2969843204630879049
+      tinytowntiles_21: 6882763812570761085
+      tinytowntiles_22: 1616686621270961122
+      tinytowntiles_23: 5316030442497402957
+      tinytowntiles_24: 9171194149413534554
+      tinytowntiles_25: -814698145600688331
+      tinytowntiles_26: -5799794011049746158
+      tinytowntiles_27: -2816758702269870179
+      tinytowntiles_28: -4134079775387055571
+      tinytowntiles_29: -2256160074135341988
+      tinytowntiles_3: 6728829318001947871
+      tinytowntiles_30: 6133906336442116731
+      tinytowntiles_31: 5716834062567342678
+      tinytowntiles_32: 1849235216284273998
+      tinytowntiles_33: 725293304344281283
+      tinytowntiles_34: 2454394832245179652
+      tinytowntiles_35: 6339476086959497607
+      tinytowntiles_36: 1348558386518034880
+      tinytowntiles_37: 9149379635186945944
+      tinytowntiles_38: 5032209045616380125
+      tinytowntiles_39: 7908898601403066045
+      tinytowntiles_4: -3937865809599079108
+      tinytowntiles_40: 924814939328179202
+      tinytowntiles_41: -5856225768259173783
+      tinytowntiles_42: 7136387996412444221
+      tinytowntiles_43: 5910054565245498875
+      tinytowntiles_44: -5834596622989708827
+      tinytowntiles_45: -4837789957193648354
+      tinytowntiles_46: 6462634285367495748
+      tinytowntiles_47: -7527806744412819430
+      tinytowntiles_48: -2608675013274970922
+      tinytowntiles_49: -7482739017058273785
+      tinytowntiles_5: -5344262772410020521
+      tinytowntiles_50: -1983960096862539995
+      tinytowntiles_51: 1468428469778366513
+      tinytowntiles_52: 2818164382748424811
+      tinytowntiles_53: -1751194045801949072
+      tinytowntiles_54: -4847059448133798630
+      tinytowntiles_55: 3834195860297369290
+      tinytowntiles_56: 4658753389045763555
+      tinytowntiles_57: 2809194082693913003
+      tinytowntiles_58: -6744088242929342308
+      tinytowntiles_59: -2620582283628120090
+      tinytowntiles_6: 6988249797244539550
+      tinytowntiles_60: 8219929877102798602
+      tinytowntiles_61: -6460964743642434816
+      tinytowntiles_62: -6418316018857486559
+      tinytowntiles_63: -5614240029181860765
+      tinytowntiles_64: -7466404783846242867
+      tinytowntiles_65: 6908652567246109549
+      tinytowntiles_66: -6567700138755773590
+      tinytowntiles_67: 8091901309030342117
+      tinytowntiles_68: -1331247238045371748
+      tinytowntiles_69: 6890975141606339665
+      tinytowntiles_7: -7021704024369161647
+      tinytowntiles_70: -5148048276794866811
+      tinytowntiles_71: -1512126300063033743
+      tinytowntiles_72: -4690731450791848227
+      tinytowntiles_73: 6675267058899368961
+      tinytowntiles_74: -1288686862879007519
+      tinytowntiles_75: 1627047641542994726
+      tinytowntiles_76: 286655857650419373
+      tinytowntiles_77: -660685993089262374
+      tinytowntiles_78: -6303427781017917787
+      tinytowntiles_79: -8152468245407637610
+      tinytowntiles_8: 2484984919924025473
+      tinytowntiles_80: 1174263871141505419
+      tinytowntiles_81: -1670201761275261103
+      tinytowntiles_82: 3093171312368042467
+      tinytowntiles_83: -1701907670011617678
+      tinytowntiles_84: -1023219109806113838
+      tinytowntiles_85: 3539696918392935565
+      tinytowntiles_86: -7321833232118868124
+      tinytowntiles_87: -942004983730864565
+      tinytowntiles_88: -224135455796954161
+      tinytowntiles_89: -3140824312581527842
+      tinytowntiles_9: 6855084756865856198
+      tinytowntiles_90: 2614064353555149946
+      tinytowntiles_91: 2339521868015300716
+      tinytowntiles_92: 7993939216935128698
+      tinytowntiles_93: 5449786945529806805
+      tinytowntiles_94: 6683281027957843249
+      tinytowntiles_95: -6002902856286600615
+      tinytowntiles_96: 8309522827928222764
+      tinytowntiles_97: 356402155582917833
+      tinytowntiles_98: -8209556537206534097
+      tinytowntiles_99: 5830553267742600200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
