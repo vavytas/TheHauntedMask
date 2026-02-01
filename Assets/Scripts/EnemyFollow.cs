@@ -9,8 +9,17 @@ public class EnemyFollow : MonoBehaviour
 
     [SerializeField] private Transform[] dummyTargets;
     [SerializeField] private float darknessIntensity = 0.4f;
+
+
+    [SerializeField] private float distancething = 1f;
+
+
     public bool targetPlayer = true;
     [SerializeField] public float speed = 2f;
+
+    [SerializeField] public bool isGhost = false;
+
+    [SerializeField] public SpriteRenderer unitSpriteRenderer;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -21,19 +30,40 @@ public class EnemyFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float distance = Vector3.Distance(transform.position, target.position);
-        if (distance > 1f)
+        if (isGhost || MainManager.mainManager.isMaskOn)
         {
-            transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
-            Vector3 diff = (target.transform.position - transform.position);
-            float atan2 = Mathf.Atan2(diff.y, diff.x);
-            transform.rotation = Quaternion.Euler(0f, 0f, atan2 * Mathf.Rad2Deg - 90f);
+            if (!isGhost)
+            {
+                Color tmp = unitSpriteRenderer.color;
+                tmp.a = 1f;
+                unitSpriteRenderer.color = tmp;
+            }
+            float distance = Vector3.Distance(transform.position, target.position);
+            if (distance > distancething)
+            {
+                transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
+                if (isGhost)
+                {
+                    Vector3 diff = (target.transform.position - transform.position);
+                    float atan2 = Mathf.Atan2(diff.y, diff.x);
+                    transform.rotation = Quaternion.Euler(0f, 0f, atan2 * Mathf.Rad2Deg - 90f);
+                }
+            }
+            else
+            {
+                if (MainManager.mainManager.goDark)
+                {
+                    StartCoroutine(GoDarkByFive());
+                }
+            }
         }
         else
         {
-            if (MainManager.mainManager.goDark)
+            if (!isGhost)
             {
-                StartCoroutine(GoDarkByFive());
+                Color tmp = unitSpriteRenderer.color;
+                tmp.a = 0.2f;
+                unitSpriteRenderer.color = tmp;
             }
         }
     }
@@ -53,6 +83,15 @@ public class EnemyFollow : MonoBehaviour
         speed = 2f;
     }
 
+    public void ResetTargetToRand()
+    {
+        int tar = Random.Range(0, dummyTargets.Length);
+        speed = 8f;
+        target = dummyTargets[tar];
+    }
 
-
+    public void ResetTargetToPlayer()
+    {
+        target = player.transform;
+    }
 }

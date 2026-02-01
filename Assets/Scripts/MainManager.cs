@@ -13,7 +13,16 @@ public class MainManager : MonoBehaviour
     public bool goDark;
     [SerializeField] public Light2D globalLight;
     [SerializeField] public GameObject GroundMask;
+
+    [SerializeField] public GameObject MaskforInstant;
     public bool overMask = false;
+
+    public bool isMaskOn = false;
+
+
+
+    [SerializeField] public EnemyFollow theGhost;
+
 
     private void Awake()
     {
@@ -33,5 +42,15 @@ public class MainManager : MonoBehaviour
         MainManager.mainManager.globalLight.intensity = 100f;
     }
 
+    public void MaskOn() 
+    {
+        theGhost.ResetTargetToRand();
+        isMaskOn = true;
+    }
 
+    public void MaskOff()
+    {
+        theGhost.ResetTargetToPlayer();
+        isMaskOn = false;
+    }
 }

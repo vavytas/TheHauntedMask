@@ -1,7 +1,6 @@
+using MangoFog;
 using UnityEngine;
 using UnityEngine.InputSystem;
-
-using MangoFog;
 
 public class PlayerControler : MonoBehaviour
 {
@@ -10,7 +9,7 @@ public class PlayerControler : MonoBehaviour
     private Vector2 moveInput;
     private float horizontal;
     private float vertical;
-    [SerializeField]public MangoFogUnit fogUnit;
+    [SerializeField] public MangoFogUnit fogUnit;
 
     [SerializeField] GameObject Mask1;
 
@@ -31,7 +30,7 @@ public class PlayerControler : MonoBehaviour
     void Update()
     {
         BodyPlayer.linearVelocity = moveInput * Speed;
-        if (moveInput.x<0 && facingRight)
+        if (moveInput.x < 0 && facingRight)
         {
             Turn(false);
         }
@@ -44,7 +43,7 @@ public class PlayerControler : MonoBehaviour
 
     }
 
-    private void Turn(bool turnRight) 
+    private void Turn(bool turnRight)
     {
 
         if (turnRight)
@@ -64,14 +63,44 @@ public class PlayerControler : MonoBehaviour
         moveInput = context.ReadValue<Vector2>();
     }
 
-    public void PutOnTheMask() 
+
+    public void MaskOnOff(InputAction.CallbackContext context)
     {
-        if (MainManager.mainManager.overMask) 
+        if (context.started)
+        {
+            if (!isMasked)
+            {
+                PutOnTheMask();
+            }
+            else
+            {
+                TakeOffTheMask();
+            }
+        }
+
+    }
+
+    public void PutOnTheMask()
+    {
+
+        if (MainManager.mainManager.overMask)
         {
             Mask1.SetActive(true);
             isMasked = true;
 
             MainManager.mainManager.GroundMask.SetActive(false);
+            MainManager.mainManager.MaskOn();
+            MainManager.mainManager.overMask= false;
         }
+    }
+
+    public void TakeOffTheMask()
+    {
+        Mask1.SetActive(false);
+        isMasked = false;
+        var newMask = Instantiate(MainManager.mainManager.MaskforInstant, transform.position, MainManager.mainManager.MaskforInstant.transform.rotation);
+
+        MainManager.mainManager.GroundMask = newMask;
+        MainManager.mainManager.MaskOff();
     }
 }
