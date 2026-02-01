@@ -11,7 +11,7 @@ public class FootStepSoundPlayer : MonoBehaviour
     public float walkStepInterval = 0.5f;
     public float runStepInterval = 0.3f;
     public float minVelocity = 0.1f;
-    private float stepTimer = 1f;
+    private float stepTimer = 0.1f;
 
     [SerializeField] public Rigidbody2D rb;
     Coroutine footstepRoutine;
