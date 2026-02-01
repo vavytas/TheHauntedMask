@@ -1,4 +1,5 @@
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -111,6 +112,10 @@ public class EnemyFollow : MonoBehaviour
         yield return new WaitForSeconds(2.5f);
         target = player.transform;
         speed = 2f;
+        if (MainManager.mainManager.globalLight.intensity <5)
+        {
+            MainManager.mainManager.Loss.SetActive(true);
+        }
     }
 
     public void ResetTargetToRand()

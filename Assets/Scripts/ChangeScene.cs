@@ -7,6 +7,6 @@ public class ChangeScene : MonoBehaviour
 
     public void ChangeTheScene() 
     {
-        SceneManager.LoadScene("Blank");
+        SceneManager.LoadScene("MAIN");
     }
 }

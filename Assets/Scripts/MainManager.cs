@@ -1,8 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
-using UnityEngine.InputSystem;
 using UnityEngine.Rendering.Universal;
 
 public class MainManager : MonoBehaviour
@@ -19,7 +15,13 @@ public class MainManager : MonoBehaviour
 
     public bool isMaskOn = false;
 
+    [SerializeField]
+    public GameObject Loss;
+    [SerializeField]
+    public GameObject Win;
 
+    [SerializeField]
+    public GameObject Ins;
 
     [SerializeField] public EnemyFollow theGhost;
     [SerializeField] public EnemyFollow theGhost2;
@@ -44,7 +46,7 @@ public class MainManager : MonoBehaviour
         MainManager.mainManager.globalLight.intensity = 100f;
     }
 
-    public void MaskOn() 
+    public void MaskOn()
     {
         theGhost.ResetTargetToPlayer();
         isMaskOn = true;

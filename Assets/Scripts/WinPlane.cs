@@ -1,14 +1,12 @@
 using System.Collections;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Rendering;
 
 public class WinPlane : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -16,7 +14,7 @@ public class WinPlane : MonoBehaviour
         if (collision.gameObject.tag == "Ghost")
         {
             StartCoroutine(Ghostpup());
-        } 
+        }
     }
 
     public IEnumerator Ghostpup()
@@ -30,6 +28,7 @@ public class WinPlane : MonoBehaviour
         MainManager.mainManager.theGhost2.gameObject.SetActive(false);
         MainManager.mainManager.theGhost.gameObject.SetActive(false);
 
+        MainManager.mainManager.Win.SetActive(true);
         MainManager.mainManager.theGhost2.stop = true;
         yield return new WaitForSeconds(0.2f);
         var spcolor = ghostrenderer.color;
