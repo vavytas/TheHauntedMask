@@ -12,6 +12,8 @@ public class MainManager : MonoBehaviour
 
     public bool goDark;
     [SerializeField] public Light2D globalLight;
+    [SerializeField] public GameObject GroundMask;
+    public bool overMask = false;
 
     private void Awake()
     {
@@ -26,7 +28,10 @@ public class MainManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
+    public void Resetintensity()
+    {
+        MainManager.mainManager.globalLight.intensity = 100f;
+    }
 
 
 }
