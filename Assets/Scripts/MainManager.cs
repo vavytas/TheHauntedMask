@@ -22,7 +22,9 @@ public class MainManager : MonoBehaviour
 
 
     [SerializeField] public EnemyFollow theGhost;
+    [SerializeField] public EnemyFollow theGhost2;
 
+    [SerializeField] public GameObject TheDoggo;
 
     private void Awake()
     {
@@ -44,13 +46,13 @@ public class MainManager : MonoBehaviour
 
     public void MaskOn() 
     {
-        theGhost.ResetTargetToRand();
+        theGhost.ResetTargetToPlayer();
         isMaskOn = true;
     }
 
     public void MaskOff()
     {
-        theGhost.ResetTargetToPlayer();
+        theGhost.ResetTargetToRand();
         isMaskOn = false;
     }
 }
